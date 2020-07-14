@@ -1,4 +1,4 @@
-# Predykcja sprzedaży - prototyp (sieci neutronowe)
+# Predykcja sprzedaży - prototyp (sieci neuronowe)
 
 Cel: przygotowanie podejścia do budowy modelu predyckji sprzedaży tak by odpowidzieć na pytania a. jak zamodelować dane b. jak skonstruować sieć, która wykona predykcję dla wielu produktów jednocześnie (na wejściu wiele serii i na wyjściu wiele serii).
 
