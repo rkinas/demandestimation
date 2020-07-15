@@ -1,6 +1,6 @@
-# Predykcja sprzedaży - prototyp (sieci neuronowe)
+# Predykcja popytu - prototyp (sieci neuronowe)
 
-Cel: przygotowanie podejścia do budowy modelu predyckji sprzedaży tak by odpowidzieć na pytania a. jak zamodelować dane b. jak skonstruować sieć, która wykona predykcję dla wielu produktów jednocześnie (na wejściu wiele serii i na wyjściu wiele serii).
+Cel: przygotowanie podejścia do budowy modelu predyckji popytu tak by odpowidzieć na pytania a. jak zamodelować dane b. jak skonstruować sieć, która wykona predykcję dla wielu produktów jednocześnie (na wejściu wiele serii i na wyjściu wiele serii).
 
 <ins>**Zrobione:**</ins>
 - opracowana koncepcja przygotowania danych w różnych konfiguracjach sieci (z algorytmem ramkowania danych - windowing i subwindowing)
